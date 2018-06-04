@@ -3,7 +3,7 @@
 nRF Blinky is an application developed targeting an audience of developers who are new to Bluetooth Low Energy. 
 This is a very simple application with two basic features to turn on LED 1 on the nRF DK and to recieve the Button 1 press event from 
 a nRF DK on the nRF Blinky Application.
-It demonstrates how to the **BleManager** class from [Android nRF Blinky](https://github.com/NordicSemiconductor/Android-BLE-Library/) 
+It demonstrates how to use the **BleManager** class from [Android nRF Blinky](https://github.com/NordicSemiconductor/Android-BLE-Library/) 
 library can be used from View Model (see [Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html)).
 
 ### Nordic LED and Button Service
